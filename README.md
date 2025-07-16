@@ -17,6 +17,8 @@
 bash-
 ollama pull mistral
 ollama serve
+
+
 2. Launch the Chatbot
 bash-
 cd backend
