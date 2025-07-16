@@ -1,0 +1,6 @@
+gradio
+requests
+streamlit
+pandas
+langchain
+langchain-community
